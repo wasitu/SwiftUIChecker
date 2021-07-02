@@ -13,6 +13,7 @@ struct ContentView: View {
         NavigationView {
             List {
                 NavigationLink("NavigationView", destination: NavigationViewChecker())
+                NavigationLink("TextView", destination: TextViewChecker())
             }
             .navigationBarTitle("SwiftUIChecker")
         }

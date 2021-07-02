@@ -17,6 +17,7 @@
 		4302387F243D300900B42A83 /* SFSymbol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4302387E243D300900B42A83 /* SFSymbol.swift */; };
 		432201C7243FE75D00C689C2 /* View+Style.swift in Sources */ = {isa = PBXBuildFile; fileRef = 432201C6243FE75D00C689C2 /* View+Style.swift */; };
 		436520AE247CF345003BF065 /* NavigationViewChecker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4302387A243D154C00B42A83 /* NavigationViewChecker.swift */; };
+		436520B0247CF683003BF065 /* TextViewChecker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 436520AF247CF683003BF065 /* TextViewChecker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		4302387C243D295E00B42A83 /* SFSymbolsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SFSymbolsView.swift; sourceTree = "<group>"; };
 		4302387E243D300900B42A83 /* SFSymbol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SFSymbol.swift; sourceTree = "<group>"; };
 		432201C6243FE75D00C689C2 /* View+Style.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "View+Style.swift"; sourceTree = "<group>"; };
+		436520AF247CF683003BF065 /* TextViewChecker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextViewChecker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 				4302387C243D295E00B42A83 /* SFSymbolsView.swift */,
 				4302387E243D300900B42A83 /* SFSymbol.swift */,
 				432201C6243FE75D00C689C2 /* View+Style.swift */,
+				436520AF247CF683003BF065 /* TextViewChecker.swift */,
 			);
 			path = SwiftUIChecker;
 			sourceTree = "<group>";
@@ -163,6 +166,7 @@
 				4302387D243D295E00B42A83 /* SFSymbolsView.swift in Sources */,
 				43023867243D14FC00B42A83 /* AppDelegate.swift in Sources */,
 				4302387F243D300900B42A83 /* SFSymbol.swift in Sources */,
+				436520B0247CF683003BF065 /* TextViewChecker.swift in Sources */,
 				43023869243D14FC00B42A83 /* SceneDelegate.swift in Sources */,
 				4302386B243D14FC00B42A83 /* ContentView.swift in Sources */,
 			);
